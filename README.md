@@ -8,7 +8,7 @@ As a consultant, I've worked on the calculation and structural design of large-s
 
 I have participated as a speaker at national and international seminars, reviewer, and writer of scientific articles. I specialize in workflow through the **BIM** methodology.
 
-I actively participate in the update committee of the Ecuadorian Construction Building Code **NEC15** in the chapter "Seismic Hazard and Seismoresistant Design" and the chapter "Seismic Evaluation and Structural Rehabilitation of Existing Buildings".
+I actively participate in the update committee of the Ecuadorian Construction Building Code **NEC15** in the chapter **"Seismic Hazard and Seismoresistant Design"** and the chapter **"Seismic Evaluation and Structural Rehabilitation of Existing Buildings"**.
 
 ## 🌱 I'm currently investigating...
 
