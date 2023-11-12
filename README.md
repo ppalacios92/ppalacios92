@@ -18,4 +18,4 @@ I continue to update myself on the latest trends and technologies in civil engin
 
 You can contact me through my email, or send me a direct message here on GitHub.
 
-[![Patricio Palacios's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppalacios92)](https://github.com/anuraghazra/github-readme-stats)
