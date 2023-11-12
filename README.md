@@ -16,8 +16,7 @@ I continue to update myself on the latest trends and technologies in Civil Engin
 
 ## 📫 How to reach me?
 
-You can contact me through my email, or send me a direct message here on GitHub.
-https://www.jepengineering.com/
+You can contact me through my email (Visiti my Consultant Company web page), or send me a direct message here on GitHub.
 
 
 
