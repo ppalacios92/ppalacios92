@@ -17,3 +17,5 @@ I continue to update myself on the latest trends and technologies in civil engin
 ## 📫 How to reach me?
 
 You can contact me through my email, or send me a direct message here on GitHub.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
