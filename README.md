@@ -23,7 +23,10 @@ You can contact me through my email (Visiti my Consultant Company web page), or 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppalacios92)](https://github.com/anuraghazra/github-readme-stats)
 
-| Number | Paper Title      | Authors                | Article Link                                               |
+
+# My investigation...
+
+| # | Paper Title      | Authors                | Article Link                                               |
 |--------------|------------------|------------------------|------------------------------------------------------------|
 | 01          | Proposal for 2023 Seismic Hazard Model and Seismic Disaggregation Tool for Ecuador using Probabilistic Seismic Hazard Analysis  | [Patricio Palacios](https://github.com/ppalacios92), [Carlos Celi](https://github.com/Normando1945) and [José Poveda](https://github.com/JosePovedaHinojosa)                   | This research is ongoing      |
 | 02            | Fragility Analysis of One of the Most Relevant Structural Typologiesin Quito. TREQ-GEM Project    | [Patricio Palacios](https://github.com/ppalacios92) , [Carlos Celi](https://github.com/Normando1945)    | [Link to Paper](https://doi.org/10.33333/rp.vol51n2.01)               |
