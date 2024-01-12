@@ -41,4 +41,4 @@ Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppala
 
 | # | Repository      | Description                | Authors                                              |
 |--------------|------------------|------------------------|------------------------------------------------------------|
-| 01          | Seismic Hazard. Python and OpenQuake programs  | GMPEs, Maps & GR parameters   | [Patricio Palacios](https://github.com/ppalacios92)       |
+| 01          | [Seismic Hazard. Python and OpenQuake programs](https://github.com/ppalacios92/SeismicHazardAnalysis)  | GMPEs, Maps & GR parameters   | [Patricio Palacios](https://github.com/ppalacios92)       |
