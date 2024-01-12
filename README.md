@@ -35,9 +35,10 @@ Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppala
 | 04            | RCC DESIGN BY INTERACTION SURFACE AND MOMENT CURVATURE DIAGRAM. GRAPHIC INTERFACE IN MATLAB    | [Patricio Palacios](https://github.com/ppalacios92)     | [Link to Paper](https://journal.espe.edu.ec/ojs/index.php/riie/article/view/1620)      |
 | 05          | SPACE SEISMAL ANALYSIS OF STRUCTURES REINFORCED WITH STEEL DIAGONALS USING CEINCI-LAB             | Roberto Aguiar, Pedro Palacios, [Patricio Palacios](https://github.com/ppalacios92), José Olmedo, Klever Parra, Melisa Herrera       | [Link to Paper](https://journal.espe.edu.ec/ojs/index.php/riie/article/view/1572)      |
 | 06          | RCC Ductility Variation Due It Biaxial Behavior Using Moment-Curvature Diagram            | [Patricio Palacios](https://github.com/ppalacios92)      | [Link to Paper](https://www.researchgate.net/publication/319111715_RCC_Ductility_Variation_Due_It_Biaxial_Behavior_Using_Moment-Curvature_Diagram)      |
-| 07          | Analysis of Ductility Variation in Reinforced Concrete Columns Due to Biaxial Behavior Using the Moment-Curvature Diagram           | [Patricio Palacios](https://github.com/ppalacios92)      | [Link to Paper](https://bibdigital.epn.edu.ec/handle/15000/17517)      |
+|
+ 07          | Analysis of Ductility Variation in Reinforced Concrete Columns Due to Biaxial Behavior Using the Moment-Curvature Diagram           | [Patricio Palacios](https://github.com/ppalacios92)      | [Link to Paper](https://bibdigital.epn.edu.ec/handle/15000/17517)      |
 
-# My contribution with my repositories
+# 🚀 My contribution with my repositories
 
 | # | Repository      | Description                | Authors                                              |
 |--------------|------------------|------------------------|------------------------------------------------------------|
