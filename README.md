@@ -13,7 +13,7 @@ I actively participate in the update committee of the Ecuadorian Construction Bu
 
 ## 🌱 I'm currently investigating...
 
-I continue to update myself on the latest trends and technologies in Civil Engineering and Architecture.
+I continue to update myself on the latest trends and technologies in Structural Civil Engineering and Architecture.
 
 ## 📫 How to reach me?
 
