@@ -4,7 +4,7 @@ I have a **Master's Degree** with extensive experience in the field of Structura
 
 I graduated as a **Master in Research in Structural Civil Engineering** from the [**Univerisdad de las Fuerzas Armadas ESPE**](https://www.espe.edu.ec/). My research focuses on seismic threat for continental Ecuador, developing models of seismic intensities.
 
-As a consultant, I've worked on the calculation and structural design of large-scale projects in Quito, ECU specializing in the non-linearity of structures for essential and special buildings in reinforced concrete. I've been a consultant for the **Ministerio de Cultura y Patrimonio**, design leader for the **Empresa Electrica Quito** in the infrastructure area, and structural analyst at the former **SECOB**. Currently I am the **CEO** at my Consultant Company [**JEP Engineering**
+As a consultant, I've worked on the calculation and structural design of large-scale projects in Quito, ECU specializing in the non-linearity of structures for essential and special buildings in reinforced concrete. I've been a consultant for the **Ministerio de Cultura y Patrimonio**, design leader for the **Empresa Electrica Quito** in the infrastructure area, and structural analyst at the former **SECOB**. Currently I am **Nominal Partner** at my Consultant Company [**TORREFUERTE**
 ](https://www.jepengineering.com/)
 
 I have participated as a speaker at national and international seminars, reviewer, and writer of scientific articles. I specialize in workflow through the **BIM** methodology.
