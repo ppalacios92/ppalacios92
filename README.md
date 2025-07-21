@@ -12,6 +12,7 @@ I am an active member of the **Ecuadorian Building Code (NEC15) update committee
 
 I continuously develop **tools and workflows** to support my students' learning and always seek to contribute to the broader **structural engineering community** through open resources and applied research.
 
+My web page: [**www.pxpalacios.com**](https://pxpalacios.com).
 
 ## 🌱 I'm currently investigating...
 
