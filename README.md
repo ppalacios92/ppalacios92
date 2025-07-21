@@ -1,15 +1,17 @@
 # Hello, I'm Patricio Palacios 👋
 
-I have a **Master's Degree** with extensive experience in the field of Structural Civil Engineering. Currently, I'm a Professor at the [**Pontificia Universidad Catolica del Ecuador (PUCE)**](https://www.puce.edu.ec/) and at the [**Escuela de Arquitectura de la Univerisdad Internacional del Ecuador (UIDE)**](https://www.uide.edu.ec/).
 
-I graduated as a **Master in Research in Structural Civil Engineering** from the [**Univerisdad de las Fuerzas Armadas ESPE**](https://www.espe.edu.ec/). My research focuses on seismic threat for continental Ecuador, developing models of seismic intensities.
+I am a **Structural Civil Engineer** with graduate-level training in seismic analysis and structural modeling. I currently work as a **professor at the [Pontificia Universidad Católica del Ecuador (PUCE)](https://www.puce.edu.ec/)** and formerly taught at the [**School of Architecture at the Universidad Internacional del Ecuador (UIDE)**](https://www.uide.edu.ec/). I hold a **Master’s Degree in Research in Structural Civil Engineering** from the [**Universidad de las Fuerzas Armadas – ESPE**](https://www.espe.edu.ec/), and I am currently pursuing a **Ph.D. in Engineering Sciences** at the [**Universidad de los Andes (Chile)**](https://www.uandes.cl/).
 
-As a consultant, I've worked on the calculation and structural design of large-scale projects in Quito, ECU specializing in the non-linearity of structures for essential and special buildings in reinforced concrete. I've been a consultant for the **Ministerio de Cultura y Patrimonio**, design leader for the **Empresa Electrica Quito** in the infrastructure area, and structural analyst at the former **SECOB**. Currently I am **Nominal Partner** at my Consultant Company [**TORREFUERTE**
-](https://www.torrefuerte.ec/)
+My academic and professional interests focus on **seismic hazard assessment**, **high-fidelity structural modeling**, and **structural analysis**. As a consultant, I have contributed to the seismic evaluation and nonlinear design of reinforced concrete structures, particularly for essential and special buildings in Ecuador. Currently I am **Nominal Partner** at my Consultant Company [**TORREFUERTE**](https://www.torrefuerte.ec/)
 
-I have participated as a speaker at national and international seminars, reviewer, and writer of scientific articles. I specialize in workflow through the **BIM** methodology.
+I am an active member of the **Ecuadorian Building Code (NEC15) update committee**, specifically in the chapters on:
 
-I actively participate in the update committee of the Ecuadorian Construction Building Code **NEC15** in the chapter **"Seismic Hazard and Seismoresistant Design"** and the chapter **"Seismic Evaluation and Structural Rehabilitation of Existing Buildings"**.
+- **Seismic Hazard and Seismic Design**
+- **Seismic Evaluation and Structural Rehabilitation of Existing Buildings**
+
+I continuously develop **tools and workflows** to support my students' learning and always seek to contribute to the broader **structural engineering community** through open resources and applied research.
+
 
 ## 🌱 I'm currently investigating...
 
