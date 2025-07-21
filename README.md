@@ -41,6 +41,8 @@ Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppala
 
 # 🚀 My contribution with my repositories
 
-| # | Repository      | Description                | Authors                                              |
-|--------------|------------------|------------------------|------------------------------------------------------------|
-| 01          | [Seismic Hazard. Python and OpenQuake programs](https://github.com/ppalacios92/SeismicHazardAnalysis)  | GMPEs, Maps & GR parameters   | [Patricio Palacios](https://github.com/ppalacios92)       |
+| #   | Repository                                                                 | Description                                  | Authors                                                  |
+|-----|-----------------------------------------------------------------------------|----------------------------------------------|----------------------------------------------------------|
+| 01  | [Seismic Hazard. Python and OpenQuake programs](https://github.com/ppalacios92/SeismicHazardAnalysis) | GMPEs, Maps & GR parameters                   | [Patricio Palacios](https://github.com/ppalacios92)     |
+| 02  | [EtabsToPython](https://github.com/ppalacios92/EtabsToPython)              | Convert an ETABS building model to Python     | [Patricio Palacios](https://github.com/ppalacios92)     |
+
