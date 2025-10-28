@@ -16,7 +16,7 @@ My web page: [**www.pxpalacios.com**](https://pxpalacios.com).
 
 ## 🌱 I'm currently investigating...
 
-I continue to update myself on the latest trends and technologies in Structural Civil Engineering and Architecture.
+I continue to update myself on the latest trends and technologies in Structural Civil Engineering and Seismic Hazard determination.
 
 ## 📫 How to reach me?
 
